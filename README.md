@@ -3,7 +3,7 @@
 
 * [SONY ACC-CSBN バッテリー（NP-BN1）+チャージャーキット][NP-BN1]
     * ￥4,260
-* [ソニー SONY SRS-BTM8 BC [ワイヤレススピーカーシステム Bluetooth接続 ブラック][SRS-BTM8]
+* [ソニー SONY SRS-BTM8 BC [ワイヤレススピーカーシステム Bluetooth接続 ブラック]][SRS-BTM8]
 * [ソニー SONY SRS-BTV5 PIC [ワイヤレススピーカーシステム Bluetooth接続]][SRS-BTV5]
     * ￥6,330
 * [SONY DRC-BTN40 B [ワイヤレスオーディオレシーバー Bluetooth （AAC、SBCコーデック対応）]][DRC-BTN40]
