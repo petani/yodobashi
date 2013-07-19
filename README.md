@@ -10,7 +10,8 @@ Sony 藍牙喇叭
     * ￥7,830
 * [ソニー SONY SRS-BTV5 PIC [ワイヤレススピーカーシステム Bluetooth接続]][SRS-BTV5]
     * ￥6,330
-* [ソニー SONY SRS-BTV25 B [スマートフォン対応Bluetoothスピーカー ブラック]][SRS-BTV25]
+* [ソニー SONY SRS-BTV25 B [スマートフォン対応Bluetoothスピーカー ブラック]][SRS-BTV25]\
+    * ￥13,600
 
 Sony 藍牙耳麥 無線音頻接收, 無線立體聲接收器
 * [SONY DRC-BTN40 B [ワイヤレスオーディオレシーバー Bluetooth （AAC、SBCコーデック対応）]][DRC-BTN40]
