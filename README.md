@@ -14,9 +14,9 @@ Sony 藍牙喇叭
 Sony 藍牙耳麥 無線音頻接收, 無線立體聲接收器
 * [SONY DRC-BTN40 B [ワイヤレスオーディオレシーバー Bluetooth （AAC、SBCコーデック対応）]][DRC-BTN40]
     * ￥5,880
-* ソニー SONY MBH10B [ワイヤレスモノラルBluetoothヘッドセット ブラック][MBH10B]
+* ソニー SONY MBH10B [ワイヤレスモノラルBluetoothヘッドセット ブラック]][MBH10B]
     * ￥3,980
-* ソニー SONY SBH50B [ワイヤレスステレオBluetoothヘッドセット ブラック][SBH50B]
+* ソニー SONY SBH50B [ワイヤレスステレオBluetoothヘッドセット ブラック]][SBH50B]
     * ￥7,010
 * [audio-technica(オーディオテクニカ) AT-PHA05BT [ヘッドホンアンプ内蔵ワイヤレスステレオレシーバー Bluetooth対応]][AT-PHA05BT]
     * ￥7,960
