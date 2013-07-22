@@ -24,6 +24,10 @@ Sony 藍牙耳麥 無線音頻接收, 無線立體聲接收器
     * ￥7,960
 
 藍芽小蜜蜂
+* [キヤノン CANON WM-V1 [ワイヤレスマイクロホン]][CANON WM-V1]
+    * ￥22,800
+* [SONY ECM-AW3 [ワイヤレスマイク]][ECM-AW3]
+    * ￥17,100
 * [藍牙傳輸器：Carol BTM-210C/BTM-210D](http://www.audionet.com.tw/a/forum.php?mod=viewthread&tid=3357)
 * [台灣製 CAROL BTM-210C 無線 藍芽 頭戴式 麥克風 收發機 攜帶方便 教學 演講 會議 教室](http://shopping.pchome.com.tw/?mod=item&func=exhibit&IT_NO=DMAA0Z-A75658595)
     * NTD$ 3890
@@ -37,6 +41,8 @@ Sony 藍牙耳麥 無線音頻接收, 無線立體聲接收器
 * [PANASONIC EH-HM75-S [頭皮エステ 皮脂洗浄タイプ シルバー調]][EH-HM75]
     * ￥9,900
 
+[CANON WM-V1]: http://www.yodobashi.com/%E3%82%AD%E3%83%A4%E3%83%8E%E3%83%B3-CANON-WM-V1-%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9B%E3%83%B3/pd/100000001001325326/
+[ECM-AW3]: http://www.yodobashi.com/%E3%82%BD%E3%83%8B%E3%83%BC-SONY-ECM-AW3-%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%83%9E%E3%82%A4%E3%82%AF/pd/100000001001126970/
 [SRS-BTV25]: http://www.yodobashi.com/%E3%82%BD%E3%83%8B%E3%83%BC-SONY-SRS-BTV25-B-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E5%AF%BE%E5%BF%9CBluetooth%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/pd/100000001001421565/
 [SBH50B]: http://www.yodobashi.com/%E3%82%BD%E3%83%8B%E3%83%BC-SONY-SBH50B-%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%82%B9%E3%83%86%E3%83%AC%E3%82%AABluetooth%E3%83%98%E3%83%83%E3%83%89%E3%82%BB%E3%83%83%E3%83%88-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/pd/100000001001782212/
 [MBH10B]: http://www.yodobashi.com/%E3%82%BD%E3%83%8B%E3%83%BC-SONY-MBH10B-%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%83%A2%E3%83%8E%E3%83%A9%E3%83%ABBluetooth%E3%83%98%E3%83%83%E3%83%89%E3%82%BB%E3%83%83%E3%83%88-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/pd/100000001001782206/
