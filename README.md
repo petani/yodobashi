@@ -23,6 +23,11 @@ Sony 藍牙耳麥 無線音頻接收, 無線立體聲接收器
 * [audio-technica(オーディオテクニカ) AT-PHA05BT [ヘッドホンアンプ内蔵ワイヤレスステレオレシーバー Bluetooth対応]][AT-PHA05BT]
     * ￥7,960
 
+藍芽小蜜蜂
+* [藍牙傳輸器：Carol BTM-210C/BTM-210D][http://www.audionet.com.tw/a/forum.php?mod=viewthread&tid=3357]
+* [台灣製 CAROL BTM-210C 無線 藍芽 頭戴式 麥克風 收發機 攜帶方便 教學 演講 會議 教室][http://shopping.pchome.com.tw/?mod=item&func=exhibit&IT_NO=DMAA0Z-A75658595]
+    * NTD$ 3890
+
 保健
 * [PANASONIC EH-SW50-S [目もとエステ]][EH-SW50]
     * ￥12,900
