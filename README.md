@@ -1,6 +1,9 @@
 [Yodobashi](http://www.yodobashi.com/)
 =========
 
+照相機
+* [オリンパス OLYMPUS OLYMPUS SH-25MR GLD [ゴールド]][SH025MR]
+
 Sony 照相機電池
 * [SONY ACC-CSBN バッテリー（NP-BN1）+チャージャーキット][NP-BN1]
     * ￥4,260
@@ -13,7 +16,7 @@ Sony 藍牙喇叭
     * ￥7,830
 * [ソニー SONY SRS-BTV5 PIC [ワイヤレススピーカーシステム Bluetooth接続]][SRS-BTV5]
     * ￥6,330
-* [ソニー SONY SRS-BTV25 B [スマートフォン対応Bluetoothスピーカー ブラック]][SRS-BTV25]\
+* [ソニー SONY SRS-BTV25 B [スマートフォン対応Bluetoothスピーカー ブラック]][SRS-BTV25]
     * ￥13,600
 
 Sony 藍牙耳麥 無線音頻接收, 無線立體聲接收器
@@ -44,6 +47,7 @@ Sony 藍牙耳麥 無線音頻接收, 無線立體聲接收器
 * [PANASONIC EH-HM75-S [頭皮エステ 皮脂洗浄タイプ シルバー調]][EH-HM75]
     * ￥9,900
 
+[SH025MR]: http://www.yodobashi.com/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%91%E3%82%B9-OLYMPUS-OLYMPUS-SH-25MR-GLD-%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89/pd/100000001001487276/
 [QE-PL301]: http://www.yodobashi.com/%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-PANASONIC-QE-PL301-K-%E7%84%A1%E6%8E%A5%E7%82%B9%E5%AF%BE%E5%BF%9CUSB%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E9%9B%BB%E6%BA%90-8-100mAh-Qi%EF%BC%88%E3%83%81%E3%83%BC%EF%BC%89%E5%AF%BE%E5%BF%9C-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/pd/100000001001509089/
 [CANON WM-V1]: http://www.yodobashi.com/%E3%82%AD%E3%83%A4%E3%83%8E%E3%83%B3-CANON-WM-V1-%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9B%E3%83%B3/pd/100000001001325326/
 [ECM-AW3]: http://www.yodobashi.com/%E3%82%BD%E3%83%8B%E3%83%BC-SONY-ECM-AW3-%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%83%9E%E3%82%A4%E3%82%AF/pd/100000001001126970/
